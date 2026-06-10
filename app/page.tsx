@@ -35,6 +35,7 @@ export default function Page() {
 
           <nav className="hidden gap-8 text-sm font-bold md:flex">
             <a href="#products">Products</a>
+            <Link href="/pricing">Pricing</Link>
             <a href="#video">Video</a>
             <a href="#faq">FAQ</a>
             <Link href="/delivery">Delivery</Link>
@@ -181,6 +182,7 @@ export default function Page() {
 
           <div className="flex gap-5">
             <Link href="/rules">Rules</Link>
+            <Link href="/pricing">Pricing</Link>
             <Link href="/terms">Terms</Link>
             <Link href="/refund-policy">Refund</Link>
             <Link href="/delivery">Delivery</Link>

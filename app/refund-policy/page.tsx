@@ -42,7 +42,7 @@ export default function RefundPolicy() {
             </p>
 
             <p>
-              To request a refund, please contact us at support@creem-holy-time.store
+              To request a refund, please contact us at support@creem-holy-time.auction
               with your payment details.
             </p>
 

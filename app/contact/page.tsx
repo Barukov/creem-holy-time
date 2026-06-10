@@ -55,7 +55,7 @@ export default function ContactPage() {
                 Email
               </p>
               <p className="mt-3 text-2xl font-black">
-               supportcreemholytime@gmail.com
+                support@creem-holy-time.auction
               </p>
             </div>
 

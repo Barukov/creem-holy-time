@@ -9,7 +9,7 @@ export async function POST(req: Request) {
 
     await resend.emails.send({
     from: "Creem Holy Time <support@creem-holy-time.auction>",
-      to: "supportcreemholytime@gmail.com",
+      to: "support@creem-holy-time.auction",
       subject: "New support request — Creem Holy Time",
       html: `
         <h2>New support request 💬</h2>

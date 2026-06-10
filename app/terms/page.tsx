@@ -39,7 +39,7 @@ const sections = [
   },
   {
     title: "10. Support",
-    text: "For product access, delivery, refund, or account questions, contact us through the Contact page. We may ask for your checkout email or order details to locate your purchase.",
+    text: "For product access, delivery, refund, or account questions, contact us through the Contact page or at support@creem-holy-time.auction. We may ask for your checkout email or order details to locate your purchase.",
   },
   {
     title: "11. Changes to these terms",

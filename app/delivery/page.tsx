@@ -33,6 +33,10 @@ export default function DeliveryPage() {
             ))}
           </div>
 
+          <p className="mt-8 text-lg leading-8 text-black/60">
+            For delivery support, contact support@creem-holy-time.auction.
+          </p>
+
           <Link href="/contact" className="mt-10 inline-block rounded-2xl bg-[#6541df] px-8 py-4 font-black text-white">
             Need help?
           </Link>
