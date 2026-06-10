@@ -9,12 +9,17 @@ export default function RefundPolicy() {
             CREEM HOLY TIME
           </Link>
 
-          <Link
-            href="/"
-            className="rounded-full bg-[#6541df] px-7 py-3 font-bold"
-          >
-            Back home
-          </Link>
+          <div className="flex items-center gap-4">
+            <Link href="/terms" className="font-bold">
+              Terms
+            </Link>
+            <Link
+              href="/"
+              className="rounded-full bg-[#6541df] px-7 py-3 font-bold"
+            >
+              Back home
+            </Link>
+          </div>
         </div>
       </header>
 

@@ -38,6 +38,7 @@ export default function Page() {
             <a href="#video">Video</a>
             <a href="#faq">FAQ</a>
             <Link href="/delivery">Delivery</Link>
+            <Link href="/terms">Terms</Link>
             <Link href="/contact">Contact</Link>
           </nav>
 
@@ -71,10 +72,10 @@ export default function Page() {
             </div>
 
             <div className="mt-10 flex flex-wrap gap-5 text-sm text-white/70">
-              <span>✔ 2,400+ customers</span>
-              <span>✔ 5.0 rating</span>
-              <span>✔ Secure checkout</span>
-              <span>✔ Instant delivery</span>
+              <span>Secure checkout</span>
+              <span>Email delivery</span>
+              <span>Digital learning resources</span>
+              <span>Customer support available</span>
             </div>
           </div>
 
@@ -180,6 +181,7 @@ export default function Page() {
 
           <div className="flex gap-5">
             <Link href="/rules">Rules</Link>
+            <Link href="/terms">Terms</Link>
             <Link href="/refund-policy">Refund</Link>
             <Link href="/delivery">Delivery</Link>
             <Link href="/privacy">Privacy</Link>
