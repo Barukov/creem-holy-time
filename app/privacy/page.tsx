@@ -41,7 +41,7 @@ const sections = [
     items: [
       "You may contact us to request access, correction or deletion of your personal information where legally available.",
       "Some records may need to be retained for payment, fraud prevention, tax, legal or accounting reasons.",
-      "For privacy questions, contact us through the Contact page or at support@creem-holy-time.auction.",
+      "For privacy questions, contact us through the Contact page or at support@holytime.store.",
     ],
   },
 ];
