@@ -44,7 +44,7 @@ export default function PricingPage() {
           <p className="mt-6 text-lg leading-8 text-black/60">
             Creem Holy Time sells digital learning resources. All purchases are
             digital products delivered by email after successful payment
-            confirmation. For support, contact support@holytime.store.
+            confirmation. For support, contact support@holytime.auction.
           </p>
         </div>
 

@@ -202,7 +202,7 @@ export async function POST(req: Request) {
 
     if (downloadLink && email !== "unknown") {
       await resend.emails.send({
-        from: "Creem Holy Time <support@holytime.store>",
+        from: "Creem Holy Time <support@holytime.auction>",
         to: email,
         subject: `Your product: ${productName}`,
         html: `

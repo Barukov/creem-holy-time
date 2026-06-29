@@ -8,8 +8,8 @@ export async function POST(req: Request) {
     const { name, email, message } = await req.json();
 
     await resend.emails.send({
-    from: "Creem Holy Time <support@holytime.store>",
-      to: "support@holytime.store ",
+    from: "Creem Holy Time <support@holytime.auction>",
+      to: "support@holytime.auction",
       subject: "New support request — Creem Holy Time",
       html: `
         <h2>New support request 💬</h2>
@@ -24,7 +24,7 @@ export async function POST(req: Request) {
 
 
     await resend.emails.send({
-  from: "Creem Holy Time <support@holytime.store>",
+  from: "Creem Holy Time <support@holytime.auction>",
   to: email,
   subject: "We received your message 💜",
   html: `
